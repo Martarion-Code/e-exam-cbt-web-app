@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#vscode debugger result
+*.heapprofile
+*.heapsnapshot
+
+
+#vscode conf
+/.vscode/
